@@ -1,18 +1,18 @@
 # Changelog  
   
-| modName    | DaMichel Ltd (DM/L)                                               |
+| modName    | Axial Aerospace Ltd (AA/L)                                        |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-SA-4.0                                                      |
-| author     | DaMichel and zer0Kerbal                                           |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/DaMichelLtd)            |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/DaMichelLtd)          |
-| spacedock  | (https://spacedock.info/mod/3027)                                 |
-| ckan       | DaMichelLtd                                                       |
+| license    | GPL-2.0                                                           |
+| author     | artwhaley and zer0Kerbal                                          |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209301-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/AxialAerospaceLtd)      |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd)    |
+| spacedock  | (https://spacedock.info/mod/3076)                                 |
+| ckan       | AxialAerospaceLtd                                                 |
 
-## Version 0.9.99.0-prerelease - `<Kichel Space Travel Supplies>`
+## Version 0.9.99.0-prerelease - `<EDITION>`
 
-* 09 May 2022  
+* 10 Aug 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
 
 ### Add
