@@ -25,6 +25,6 @@
 	"INSTALL_LOC" :
 	{
 		"NAME" :	  "AxialAerospaceLtd",
-		"DIRECTORY" : "DaMichel/AxialAerospaceLtd"
+		"DIRECTORY" : "AxialAerospace/AxialAerospaceLtd"
 	}
 }
