@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.9.3
-Axial Aerospace Ltd (ABBV)
+Axial Aerospace Ltd (AA/L)
 created: 17 Jul 2017
 updated: 31 Jul 2022 -->
 
@@ -11,7 +11,7 @@ updated: 31 Jul 2022 -->
 
 
 
-# Axial Aerospace Ltd (ABBV)
+# Axial Aerospace Ltd (AA/L)
 
 *It's what we do*
 
