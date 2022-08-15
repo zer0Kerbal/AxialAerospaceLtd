@@ -4,4 +4,4 @@
 
 
 ## Documents
-- [License.md](License.md.md)
+- [License](License.md)
