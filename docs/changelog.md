@@ -7,13 +7,13 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!-- 
 hdr-changelog.md v1.0.0.0
-Axial Aerospace Ltd (AA/L)
+Axial Aerospace Ltd (AAL)
 created: 13 May 2022
 updated:
 CC BY-ND 4.0 by zer0Kerbal
 --># Changelog  
   
-| modName    | Axial Aerospace Ltd (AA/L)                                        |
+| modName    | Axial Aerospace Ltd (AAL)                                        |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-2.0                                                           |
 | author     | artwhaley and zer0Kerbal                                          |
