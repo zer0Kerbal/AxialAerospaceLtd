@@ -1,5 +1,5 @@
 <!-- readme.md v1.7.0.1
-Axial Aerospace Ltd (AA/L)
+Axial Aerospace Ltd (AAL)
 created: 17 Jul 2017
 updated: 17 Jan 2023 -->
 
@@ -10,7 +10,7 @@ updated: 17 Jan 2023 -->
 [![GitHub Pages][PAGES:shd]][pages]
 
 
-# [Axial Aerospace Ltd (AA/L)][forum]
+# [Axial Aerospace Ltd (AAL)][forum]
 
 *It's what we do*
 

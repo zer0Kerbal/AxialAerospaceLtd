@@ -4,7 +4,6 @@ title: Legal Mumbo Jumbo
 description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
 tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!--
 LegalMumboJumbo.md v1.0.5.1
 Axial Aerospace Ltd (AAL)
@@ -22,15 +21,11 @@ updated: 15 May 2022
 ## Legal Mumbo Jumbo
 
 * Table of Contents
-  * [License](#License)
-
----
+  * [License](#license)
 
 ### License
 
 [License](./LegalMumboJumbo/License.md)
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
 
----
-
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+this file: CC BY-ND 4.0 by zer0Kerbal

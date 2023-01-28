@@ -35,7 +35,7 @@ based upon work by LisiasT -->
 
 * "Axial Aerospace (AA)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
-## Axial Aerospace Ltd. (AA/L)
+## Axial Aerospace Ltd. (AA/L) (AAL)
 
 * "Axial Aerospace Ltd. (AA/L) (AAL)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 

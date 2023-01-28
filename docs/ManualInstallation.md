@@ -4,7 +4,6 @@ title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- ManualInstallation.md v1.1.8.1
 Axial Aerospace Ltd (AAL)
 created: 01 Oct 2019
@@ -18,7 +17,7 @@ updated: 29 Jul 2022 -->
 
 *It's what we do*
 
-Adds Axial Aerospace Ltd. Agent, Flags, and common config files used in all Axial Aerospace's add-ons for Kerbal Space Program.
+Agent, Flags, and common config files used in all Axial Aerospace's add-ons for Kerbal Space Program.
 
 ## Installation Instructions
 
@@ -56,11 +55,13 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
     + [AxialAerospace]
         ...
       + [AxialAerospaceLtd]
+        + [Agencies]
+          ...
         + [Compatibility]
           ...
         + [Config]
           ...
-        + [Contracts]
+        + [Flags]
           ...
         + [Localization]
           ...
@@ -69,7 +70,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         * AxialAerospaceLtd.version
         * changelog.md
         * GPL-2.0.txt
-          ManualInstallation.htm
+        * ManualInstallation.htm
         * readme.htm
       ...
     * ModuleManager.ConfigCache
@@ -81,6 +82,4 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * none
 
-[AAL]: https://github.com/zer0Kerbal/AxialAerospaceLtd "AxialAerospace Ltd (AA/L)"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
