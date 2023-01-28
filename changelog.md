@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | Axial Aerospace Ltd (AA/L)                                        |
+| modName    | Axial Aerospace Ltd (AAL)                                         |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-2.0                                                           |
 | author     | artwhaley and zer0Kerbal                                          |
