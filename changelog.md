@@ -19,7 +19,7 @@
 
 ### Summary 0.9.99.1
 
-* fix agency relatedissues
+* fix agency related issues
 * fix texture related issues
 
 ### Status 0.9.99.1
