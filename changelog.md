@@ -10,6 +10,29 @@
 | spacedock  | (https://spacedock.info/mod/3076)                                 |
 | ckan       | AxialAerospaceLtd                                                 |
 
+## Version 0.9.99.1-prerelease - `<Tray Tables to the Upright and Locked Position>` edition
+
+* Released
+  * 28 Jan 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 0.9.99.1
+
+* fix agency related issues
+* fix texture related issues
+
+### Status 0.9.99.1
+
+* Issues
+  * closes #30 - Axial Aerospace Ltd (AAL) 0.9.99.1-prerelease `<Tray Tables to the Upright and Locked Position>` edition
+  * closes #31 - 0.9.99.1 Additional Tasks
+  * closes #32 - [BUG] missing agency scaled
+  * closes #33 - [LOG SPAM] Agent Mentality
+  * closes #34 - [HERO-Logo] Update
+
+---
+
 ## Version 0.9.99.0-prerelease - `<On Final Approach>` edition
 
 * 10 Aug 2022  

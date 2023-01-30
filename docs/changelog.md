@@ -4,7 +4,6 @@ title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- 
 hdr-changelog.md v1.0.0.0
 Axial Aerospace Ltd (AAL)
@@ -13,7 +12,7 @@ updated:
 CC BY-ND 4.0 by zer0Kerbal
 --># Changelog  
   
-| modName    | Axial Aerospace Ltd (AAL)                                        |
+| modName    | Axial Aerospace Ltd (AAL)                                         |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-2.0                                                           |
 | author     | artwhaley and zer0Kerbal                                          |
@@ -22,6 +21,29 @@ CC BY-ND 4.0 by zer0Kerbal
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd)    |
 | spacedock  | (https://spacedock.info/mod/3076)                                 |
 | ckan       | AxialAerospaceLtd                                                 |
+
+## Version 0.9.99.1-prerelease - `<Tray Tables to the Upright and Locked Position>` edition
+
+* Released
+  * 28 Jan 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 0.9.99.1
+
+* fix agency related issues
+* fix texture related issues
+
+### Status 0.9.99.1
+
+* Issues
+  * closes #30 - Axial Aerospace Ltd (AAL) 0.9.99.1-prerelease `<Tray Tables to the Upright and Locked Position>` edition
+  * closes #31 - 0.9.99.1 Additional Tasks
+  * closes #32 - [BUG] missing agency scaled
+  * closes #33 - [LOG SPAM] Agent Mentality
+  * closes #34 - [HERO-Logo] Update
+
+---
 
 ## Version 0.9.99.0-prerelease - `<On Final Approach>` edition
 
@@ -71,3 +93,4 @@ CC BY-ND 4.0 by zer0Kerbal
   * closes #5 - 0.9.99.0 Create Social Media
 
 ---
+
